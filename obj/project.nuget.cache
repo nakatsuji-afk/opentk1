@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLd8qGUJ6pK+OfvB3crkVspas2/TgBJBG0/aN1KAf7HluJCkxz0ARrZ9WRte4eieMR5ejeSQXca8iAC+Z4duXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hokka\\source\\repos\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk\\4.8.0\\opentk.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.audio.openal\\4.8.0\\opentk.audio.openal.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.compute\\4.8.0\\opentk.compute.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.core\\4.8.0\\opentk.core.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.graphics\\4.8.0\\opentk.graphics.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.input\\4.8.0\\opentk.input.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.mathematics\\4.8.0\\opentk.mathematics.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.38\\opentk.redist.glfw.3.3.8.38.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.windowing.common\\4.8.0\\opentk.windowing.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.windowing.desktop\\4.8.0\\opentk.windowing.desktop.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.0\\opentk.windowing.graphicslibraryframework.4.8.0.nupkg.sha512",
+    "C:\\Users\\hokka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
